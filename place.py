@@ -470,7 +470,7 @@ def drawdesign():
     turtle.right(36)
     
     
-    
+#arastu
 drawdesign()
 #turtle.done()
 
